@@ -1,0 +1,96 @@
+body{
+    background-image: url("dark-background-abstract-background-network-3d-background-2880x1800-8324.png");
+    overflow: hidden;
+}
+
+#back{
+    border: 5px solid rgba(255, 31, 0, 0.5);
+    background-color: rgba(30, 30, 30, 0.5);
+    border-radius: 99px;
+    width: 225px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+#meny{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: rgb(67, 67, 67);
+    text-align: center;
+}
+
+#title{
+    background-color: rgb(34, 34, 34);
+    margin-top: -40px;
+}
+
+#cv2{
+    text-align: center;
+    padding: 15px;
+    font-size: 60px;
+    color: rgb(215, 209, 201);
+}
+
+#info{
+    border: 5px solid rgba(255, 146, 0, 0.5);
+    background-color: rgba(30, 30, 30, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 100px;
+    display: inline-block;
+    width: 600px;
+    height:auto ;
+}
+
+#sport{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    padding-left: 10px;
+    margin-top: auto;
+    margin-bottom: -8px;
+}
+
+#p1{
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+    padding-right: 15px;
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+#deb{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    padding-left: 10px;
+    margin-bottom: -8px;
+}
+
+#p2{
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+    padding-right: 15px;
+    font-size: 18px;
+}
+
+#yellow{
+    color: rgb(194, 120, 22);
+}
+
+img{
+    border: 5px solid rgba(255, 146, 0, 0.5);
+    border-radius: 500px;
+    height:auto;
+    width: 225px;
+    margin: auto;
+    display: inline;
+}
+
+#bildDiv{
+    display: inline-block;
+    width: 400px;
+    height: auto;
+    margin-left: 100px;
+}

@@ -1,0 +1,60 @@
+body{
+    background-image: url("dark-background-abstract-background-network-3d-background-2880x1800-8324.png");
+    overflow: hidden;
+}
+
+#cv1{
+    color: rgb(255, 31, 0);
+    text-align: center;
+    font-size: 75px;
+    text-decoration: underline;
+    text-decoration-color: rgb(67, 67, 67);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cv2{
+    color: rgb(215, 209, 201);
+    text-align: center;
+    font-size: 60px;
+    padding: 15px;
+}
+
+#cv3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+}
+
+#cv4{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#welcome{
+    background-color: rgb(34, 34, 34);
+    margin-top: -70px;
+}
+
+#button{
+    border: 5px solid rgba(255, 31, 0, 0.5);
+    background-color: rgba(30, 30, 30, 0.5);
+    border-radius: 99px;
+    width: 200px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gmail{
+    border: 5px solid rgba(255, 31, 0, 0.5);
+    background-color: rgba(30, 30, 30, 0.5);
+    border-radius: 99px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
